@@ -61,10 +61,10 @@ public class MainFormController {
         QurayDAO qurayDAO = new QuaryDAOimpl();
         List<CustomerOrderDetailsDTO> dtoList = qurayDAO.customerOrderDetails();
         for (CustomerOrderDetailsDTO dto : dtoList){
-            System.out.print(dto.getId()+"-");
-            System.out.print(dto.getName()+"-");
-            System.out.print(dto.getAddress()+"-");
-            System.out.print(dto.getOrderId()+"-");
+            System.out.print(dto.getId()+" , ");
+            System.out.print(dto.getName()+" , ");
+            System.out.print(dto.getAddress()+" , ");
+            System.out.print(dto.getOrderId()+" , ");
             System.out.print(dto.getData());
             System.out.println();
         }
