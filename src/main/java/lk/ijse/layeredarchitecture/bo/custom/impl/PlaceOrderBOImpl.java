@@ -2,7 +2,7 @@ package lk.ijse.layeredarchitecture.bo.custom.impl;
 
 import lk.ijse.layeredarchitecture.bo.custom.PlaceOrderBO;
 import lk.ijse.layeredarchitecture.dao.DAOFactory;
-import com.example.layeredarchitecture.dao.custom.*;
+import lk.ijse.layeredarchitecture.dao.custom.*;
 import lk.ijse.layeredarchitecture.dao.custom.*;
 import lk.ijse.layeredarchitecture.db.DBConnection;
 import lk.ijse.layeredarchitecture.dto.CustomerDTO;
