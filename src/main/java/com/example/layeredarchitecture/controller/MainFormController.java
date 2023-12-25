@@ -2,7 +2,7 @@ package com.example.layeredarchitecture.controller;
 
 import com.example.layeredarchitecture.dao.Custom.QurayDAO;
 import com.example.layeredarchitecture.dao.Custom.impl.QuaryDAOimpl;
-import com.example.layeredarchitecture.model.CustomerOrderDetailsDTO;
+import com.example.layeredarchitecture.dto.CustomerOrderDetailsDTO;
 import javafx.animation.FadeTransition;
 import javafx.animation.ScaleTransition;
 import javafx.animation.TranslateTransition;

@@ -1,7 +1,7 @@
 package com.example.layeredarchitecture.dao.Custom.impl;
 
 import com.example.layeredarchitecture.dao.Custom.CustomerDAO;
-import com.example.layeredarchitecture.model.CustomerDTO;
+import com.example.layeredarchitecture.dto.CustomerDTO;
 import com.example.layeredarchitecture.util.SQLUtil;
 
 import java.sql.*;

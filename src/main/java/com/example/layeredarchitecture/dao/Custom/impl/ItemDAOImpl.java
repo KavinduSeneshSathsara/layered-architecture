@@ -1,7 +1,7 @@
 package com.example.layeredarchitecture.dao.Custom.impl;
 
 import com.example.layeredarchitecture.dao.Custom.ItemDAO;
-import com.example.layeredarchitecture.model.ItemDTO;
+import com.example.layeredarchitecture.dto.ItemDTO;
 import com.example.layeredarchitecture.util.SQLUtil;
 
 import java.sql.*;
