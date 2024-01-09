@@ -1,6 +1,5 @@
 package com.example.layeredarchitecture.bo;
 
-import com.example.layeredarchitecture.SuperDAO;
 import com.example.layeredarchitecture.entity.Item;
 import com.example.layeredarchitecture.model.ItemDTO;
 
