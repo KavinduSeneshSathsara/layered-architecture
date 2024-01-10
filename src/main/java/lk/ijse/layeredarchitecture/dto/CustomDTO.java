@@ -2,7 +2,6 @@ package lk.ijse.layeredarchitecture.dto;
 
 import java.math.BigDecimal;
 
-
 public class CustomDTO {
     private String id;
     private String name;
